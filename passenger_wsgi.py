@@ -1,0 +1,1 @@
+from Bulkemailsenddjango.wsgi import application
